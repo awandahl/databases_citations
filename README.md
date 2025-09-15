@@ -20,7 +20,7 @@ Here is a **top-down explanation**—starting from **bibliographic databases**, 
 ## Citation Databases
 
 **Citation databases** go one step further: they collect **bibliographic metadata** and also track **who cites whom**.
-**Examples:** Web of Science, Scopus, Google Scholar.
+**Examples:** OpenAlex, Web of Science, Scopus, Google Scholar.
 
 - **Purpose:** To enable **citation analysis**—seeing how research builds on previous work, and measuring scholarly impact.
 - **Content:** They record **incoming citations** (who cited a paper), **outgoing references** (which papers a work cites), and often provide **citation counts** and **bibliometric indicators** (e.g., h-index, impact factor).
