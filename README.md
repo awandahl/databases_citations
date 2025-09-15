@@ -2,7 +2,7 @@
 
 
 
-Here is a **pedagogic, top-down explanation**—starting from **bibliographic databases**, then **citation databases**, explaining **citations and references** and how these fit into the scholarly **publication graph**. This is tailored for clarity and practical understanding:
+Here is a **top-down explanation**—starting from **bibliographic databases**, then **citation databases**, explaining **citations and references** and how these fit into the scholarly **publication graph**. 
 
 ***
 
