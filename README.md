@@ -85,7 +85,7 @@ The **publication graph** (or citation graph) is a **network model** of scholarl
 | Reference | Full details of a cited source | Listed in bibliography | 
 | Citation | In-text acknowledgment of a source | Points to reference, may occur multiple times | 
 | Publication (citation) graph | Nodes: publications; edges: citations | Models flow of knowledge, supports analysis | 
-| “Gets a citation” | Another paper cites the original | Increases citation count, shows visibility | 
+| “Get a citation” | Another paper cites the original | Increases citation count, shows visibility | 
 
 
 ***
